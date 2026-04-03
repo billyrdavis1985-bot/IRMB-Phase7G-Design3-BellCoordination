@@ -1,6 +1,6 @@
 # IRMB Phase 7G Design 3 — Bell Coordination
 
-![IRMB Design 3 Architecture](Gemini_<img width="2816" height="1536" alt="Gemini_Generated_Image_f9lonwf9lonwf9lo" src="https://github.com/user-attachments/assets/9f03fa45-c521-40e6-a7be-7e77aa1429e8" />
+![IRMB Design 3 Architecture](<img width="2816" height="1536" alt="Gemini_Generated_Image_f9lonwf9lonwf9lo" src="https://github.com/user-attachments/assets/9f03fa45-c521-40e6-a7be-7e77aa1429e8" />
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB-Phase7G-Design3-BellCoordination/blob/main/Phase7G_Design3_BellCoordination.ipynb)
