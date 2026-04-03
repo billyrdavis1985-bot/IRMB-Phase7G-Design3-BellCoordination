@@ -1,6 +1,7 @@
 # IRMB Phase 7G Design 3 — Bell Coordination
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_f9lonwf9lonwf9lo" src="https://github.com/user-attachments/assets/9f03fa45-c521-40e6-a7be-7e77aa1429e8" />
+<img width="1536" height="1024" alt="ChatGPT Image Apr 3, 2026, 07_37_46 AM" src="https://github.com/user-attachments/assets/0bac3752-c67b-46cb-b713-4a08c91b56bd" />
+
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB-Phase7G-Design3-BellCoordination/blob/main/Phase7G_Design3_BellCoordination.ipynb)
