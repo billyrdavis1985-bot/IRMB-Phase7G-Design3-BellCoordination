@@ -1,6 +1,7 @@
 # IRMB Phase 7G Design 3 — Bell Coordination
 
-<img width="1536" height="1024" alt="ChatGPT Image Apr 3, 2026, 07_37_46 AM" src="https://github.com/user-attachments/assets/0bac3752-c67b-46cb-b713-4a08c91b56bd" />
+<img width="1536" height="1024" alt="ChatGPT Image Apr 3, 2026, 07_43_58 AM" src="https://github.com/user-attachments/assets/deeb0bfa-5ee1-4d7a-9b9c-64abd242838f" />
+
 
 
 
